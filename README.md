@@ -33,7 +33,7 @@
 ## 📈 GitHub Estatísticas
 
 <div align="center"><br>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Davi-SS&show_icons=true&theme=merko&include_all_commits-true&locale=pt-br" alt="Davi GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Davi-SS&show_icons=true&theme=merko&include_all_commits-true&locale=pt-br" alt="Davi GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SS&layout=compact&theme=merko&locale=pt-br&langs_count=6" alt="Top Languages"/>
 </div>
 
