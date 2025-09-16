@@ -24,4 +24,5 @@ Me chamo **Davi Spagiari Strugulski**. Sou formado como **Técnico em Redes de C
 <div><br>
   <img align="left" alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Davi-SS&show_icons=true&theme=merko&include_all_commits-true&locale-pt-br" />
   <img align="left" alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SS&theme=merko&layout-compact&custom_title=Linguagens&langs_count=4" />
+  <img align="right" alt="gif-dev" height="120px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWIzeDNpZDFxYTk3eTd0cml4bDRqMGxvaDI5dHFyYXBhdmR4dXNleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" />
 </div>
