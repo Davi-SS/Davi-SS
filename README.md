@@ -1,28 +1,50 @@
 # Davi Strugulski
 
-**`Desenvolvedor Full Stack`**
-
-Me chamo **Davi Spagiari Strugulski**. Sou formado como **Técnico em Redes de Computadores** e atualmente estou cursando **Técnico em Informática** e a graduação em **Engenharia de Software**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=700&color=2E8002FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!💡" alt="Typing SVG" />
+</p>
 
 ---
 
-### Linguagens e Tecnologias
+<br>
 
-<div style="display: inline-block;"><br>
-  <img align="left" alt="HTML" title="HTML" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS" title="CSS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="Java" title="Java" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+## 👨‍💻 Sobre mim
+
+🎓 Técnico em Redes de Computadores<br>
+🎓 Cursando Técnico em Informática + Graduação em Engenharia de Software<br>
+💻 Desenvolvedor Full Stack em formação<br>
+🚀 Apaixonado por resolver problemas com código
+
+<br>
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
 </div>
 
 <br><br>
 
 ---
 
-### Estatísticas
+## 📈 GitHub Estatísticas
 
-<div><br>
-  <img align="left" alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Davi-SS&show_icons=true&theme=merko&include_all_commits-true&locale-pt-br" />
-  <img align="left" alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SS&theme=merko&layout-compact&custom_title=Linguagens&langs_count=4" />
-  <img align="right" alt="gif-dev" height="120px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWIzeDNpZDFxYTk3eTd0cml4bDRqMGxvaDI5dHFyYXBhdmR4dXNleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" />
+<div align="center"><br>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Davi-SS&show_icons=true&theme=merko&include_all_commits-true&locale=pt-br" alt="Davi GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SS&layout=compact&theme=merko&locale=pt-br&langs_count=6" alt="Top Languages"/>
 </div>
+
+## ✨ Vibe Dev
+
+<div align="center"><br>
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" height="120" alt="gif-dev"/>
+</div><br>
+
+<h3 align="center">💻 Obrigado por visitar meu perfil!</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=Volte+sempre!;Happy+Coding!+🚀" alt="Typing SVG"/>
+</p>
