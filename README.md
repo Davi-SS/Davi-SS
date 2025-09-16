@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Davi Spagiari Strugulski, sou formado em Técnico de Redes em Computadores, estou cursando Técnico em Informatica e Graduação em Engenharia de Softwares.
+Me chamo **Davi Spagiari Strugulski**. Sou formado como **Técnico em Redes de Computadores** e atualmente estou cursando **Técnico em Informática** e a graduação em **Engenharia de Software**.
 
-<hr>
+---
 
 ### Linguagens e Tecnologias
 
@@ -17,10 +17,12 @@ Me chamo Davi Spagiari Strugulski, sou formado em Técnico de Redes em Computado
 
 <br><br>
 
+---
+
 ### Estatísticas
 
-<div style="display: block;"><br>
+<div><br>
   <img align="left" alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Davi-SS&show_icons=true&theme=merko&include_all_commits-true&locale-pt-br" />
   <img align="left" alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SS&theme=merko&layout-compact&custom_title=Linguagens&langs_count=4" />
-  <img align="rigth" alt="gif-Dev" width="170px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R2Zmc3dTZrMHRwbmNlaGV5cnUwN3JzeDU0ZzJwemM3MGdsbGsyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" />
+  <img align="right" alt="gif-Dev" width="170px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R2Zmc3dTZrMHRwbmNlaGV5cnUwN3JzeDU0ZzJwemM3MGdsbGsyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" />
 </div>
