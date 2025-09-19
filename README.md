@@ -1,7 +1,7 @@
 # Davi Strugulski
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=700&color=2E8002FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+Pentester;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=700&color=2E8002FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Futuro+Pentester;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!💡" alt="Typing SVG" />
 </p>
 
 ---
