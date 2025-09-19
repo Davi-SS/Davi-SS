@@ -14,6 +14,7 @@
 🎓 Cursando Técnico em Informática + Graduação em Engenharia de Software<br>
 💻 Desenvolvedor Full Stack em formação<br>
 🚀 Apaixonado por resolver problemas com código
+🔐 Atualmente aprendendo sobre **Pentest** (Testes de Penetração) e segurança cibernética
 
 <br>
 
@@ -25,6 +26,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
 </div>
+
+<br>
+
+## 🛡️ Segurança Cibernética & Pentest
+
+🔍 Em busca de aprimorar minhas habilidades em **Pentest** e análise de vulnerabilidades.<br>
+📚 Estudando ferramentas e metodologias para identificar e corrigir falhas de segurança em sistemas.
 
 <br><br>
 
