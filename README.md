@@ -13,7 +13,7 @@
 🎓 Técnico em Redes de Computadores<br>
 🎓 Cursando Técnico em Informática + Graduação em Engenharia de Software<br>
 💻 Desenvolvedor Full Stack em formação<br>
-🚀 Apaixonado por resolver problemas com código
+🚀 Apaixonado por resolver problemas com código<br>
 🔐 Atualmente aprendendo sobre **Pentest** (Testes de Penetração) e segurança cibernética
 
 <br>
